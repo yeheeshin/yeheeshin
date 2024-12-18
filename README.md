@@ -22,4 +22,4 @@
 
 ## 📊 GitHub Stats 📊 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yeheeshin&layout=donut&hide=python)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yeheeshin&layout=donut&hide=css)](https://github.com/anuraghazra/github-readme-stats)
